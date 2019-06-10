@@ -100,8 +100,8 @@
 							</p>
 							
 							<!-- git commit-->
-							<!--<p class="white-text2" style=" color: red;font-size: 36px; "> #Can We see this Change ?! #							 
-							</p> -->    
+							<p class="white-text2" style=" color: red;font-size: 36px; "> #Can We see this Change ?! #							 
+							</p> <!---->    
 							<button class="white-btn">Get Started!</button>
 							<button class="main-btn">Learn more</button>
 						</div>
