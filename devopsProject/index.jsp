@@ -101,7 +101,9 @@
 							
 							<!-- git commit-->
 							<p class="white-text2" style=" color: red;font-size: 36px; "> #Can We see this Change ?! #							 
-							</p>    
+							</p>  
+							
+							<h1 class="white-text2" style=" color: blue;font-size: 36px; "> Moshe</h1>
 							<button class="white-btn">Get Started!</button>
 							<button class="main-btn">Learn more</button>
 						</div>
